@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DevJobs-web-app/static/css/main.4e745eee.css",
-    "main.js": "/DevJobs-web-app/static/js/main.108cebfc.js",
+    "main.js": "/DevJobs-web-app/static/js/main.2ab5b79c.js",
     "static/media/logo.svg": "/DevJobs-web-app/static/media/logo.8c0b644930f3fa038b452bce0d4b876d.svg",
     "static/media/scoot.svg": "/DevJobs-web-app/static/media/scoot.345a4bfd15e6f589d568.svg",
     "static/media/pomodoro.svg": "/DevJobs-web-app/static/media/pomodoro.a786dc9a9ad4e2ead3b2.svg",
@@ -20,10 +20,10 @@
     "static/media/maker.svg": "/DevJobs-web-app/static/media/maker.b6f34b7909e60ded181a.svg",
     "static/media/officelite.svg": "/DevJobs-web-app/static/media/officelite.34773de614b80abc0b9a.svg",
     "main.4e745eee.css.map": "/DevJobs-web-app/static/css/main.4e745eee.css.map",
-    "main.108cebfc.js.map": "/DevJobs-web-app/static/js/main.108cebfc.js.map"
+    "main.2ab5b79c.js.map": "/DevJobs-web-app/static/js/main.2ab5b79c.js.map"
   },
   "entrypoints": [
     "static/css/main.4e745eee.css",
-    "static/js/main.108cebfc.js"
+    "static/js/main.2ab5b79c.js"
   ]
 }
